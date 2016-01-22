@@ -1,0 +1,29 @@
+h4 {
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    padding-bottom: 5em;
+}
+.navbar { background-color: #B4C157; border-bottom: 0;
+
+}
+
+.navbar-nav > li > a:link { 
+    color: white;
+}
+
+.nav a:visited { 
+    color: white;
+}
+.navbar-header > a:visited{
+    color: black;
+}
+
+.navbar-header > button {
+    border:0 ;
+}
+#bs-example-navbar-collapse-1 {
+    border:0;
+}
